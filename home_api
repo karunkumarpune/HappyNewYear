@@ -2,88 +2,16 @@
   "result": [
     {
       "main_avatar": "https://www.123greetingmessage.net/wp-content/uploads/2017/10/Merry-Christmas-2017-GIF-Free-Download.gif",
-      "festival_name1": "Merry Christmas  Monday, 25 December",
-      "festival_name2": "Happy New Year 2018  Monday, 1 January ",
-      "festival_name3": "Makar Sankranti  Sunday, 14 January",
-      "festival_name4": "Vasant Panchami  Monday, 22 January",
-      "festival_name5": "Republic Day  Friday, 26 January",
-      "avatar_data1": [
-        {
-          "avatar": "http://pressks.com/wp-content/uploads/2016/12/2016-merry-christmas-images-wallpapers-pictures-wishes-4.jpg"
-        },
-        {
-          "avatar": "https://www.thesun.co.uk/wp-content/uploads/2017/07/nintchdbpict000342673547.jpg"
-        },
-        {
-          "avatar": "https://i2-prod.mirror.co.uk/incoming/article9502805.ece/ALTERNATES/s482b/PROD-Christmas-Glowing-fireplace-hearth-tree-Red-stockings-Gifts-and-decorations.jpg"
-        },
-        {
-          "avatar": "http://www.shipinn.scot/wp-content/uploads/2017/09/Transparent_Merry_Christmas_Decor_PNG_Clipart.png"
-        }
-      ],
-      "avatar_data2": [
-        {
-          "avatar": "https://www.happynewyear2018x.com/wp-content/uploads/2017/09/Happy-New-Year-2018-Images-4.jpg"
-        },
-        {
-          "avatar": "http://myrenaultzoe.com/wp-content/uploads/2017/01/happy_new-year_fireworks_publicdomain.jpg"
-        },
-        {
-          "avatar": "https://breathenetwork.files.wordpress.com/2015/01/happy-new-year-2015.jpg"
-        },
-        {
-          "avatar": "https://oscar-resort.com/wp-content/uploads/2017/11/Happy-New-Year.jpg"
-        }
-      ],
-      "avatar_data3": [
-        {
-          "avatar": "http://s3.india.com/wp-content/uploads/2016/01/makar-sankranti.jpg"
-        },
-        {
-          "avatar": "https://i.ytimg.com/vi/gwcuIgGtHtE/maxresdefault.jpg"
-        },
-        {
-          "avatar": "http://s3.india.com/wp-content/uploads/2016/01/Teaser-11.jpg"
-        },
-        {
-          "avatar": "https://i.ytimg.com/vi/lSUHSQWWqIY/maxresdefault.jpg"
-        },
-        {
-          "avatar": "http://2.bp.blogspot.com/_HwSClCn6ue0/TTFsJylXYqI/AAAAAAAAAWA/IrxQQPZUM24/s640/makar-sankranti03.jpg"
-        }
-      ],
-      "avatar_data4": [
-        {
-          "avatar": "http://static.drikpanchang.com/images/festivals/vasant-panchami/puja/hindu_family_saraswati_puja.jpg"
-        },
-        {
-          "avatar": "http://images.indianexpress.com/2017/02/saraswati-759.png"
-        },
-        {
-          "avatar": "https://i.ytimg.com/vi/GX27LyoLKlA/maxresdefault.jpg"
-        }
-      ],
-      "avatar_data5": [
-        {
-          "avatar": "http://www.worldblaze.in/wp-content/uploads/2016/01/Republic-Day-of-India.jpg"
-        },
-        {
-          "avatar": "http://www.freepressjournal.in/wp-content/uploads/2017/01/Indian-flag.jpeg"
-        },
-        {
-          "avatar": "http://www.ohmyindia.com/wp-content/uploads/2017/01/repub.jpg"
-        },
-        {
-          "avatar": "http://webneel.com/daily/sites/default/files/images/daily/01-2014/2-happy-republic-day.preview.jpg"
-        },
-        {
-          "avatar": "https://www.mapsofindia.com/wallpapers/republic-day/republic-day-photos.jpg"
-        },
-        {
-          "avatar": "http://2.bp.blogspot.com/-8Y-iiHA0xy4/WF4U22--TGI/AAAAAAAAACo/Te7YmKXtnHYJpu-b3eLuHf4m0lQZTvFhgCK4B/s1600/26-January-Republic-Day-photo.jpg"
-        }
-      ]
-      
-    }
+      "festival_name1": "Merry Christmas ~ Monday, 25 December",
+      "festival_name2": "Happy New Year 2018 ~ Monday, 1 January ",
+      "festival_name3": "Makar Sankranti ~ Sunday, 14 January",
+      "festival_name4": "Vasant Panchami ~ Monday, 22 January",
+      "festival_name5": "Republic Day ~ Friday, 26 January",
+      "avatar_1": "avatar_1.json",
+      "avatar_2": "avatar_2.json",
+      "avatar_3": "avatar_3.json",
+      "avatar_4": "avatar_4.json",
+      "avatar_5": "avatar_5.json"
+      }
   ]
 }
